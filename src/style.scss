@@ -1,0 +1,15 @@
+@import "vanilla-framework";
+@include vanilla;
+
+#data {
+  padding: 20px;
+}
+
+li {
+  -webkit-box-shadow: 0px 6px 15px -6px rgba(0, 0, 0, 0.53);
+  box-shadow: 0px 6px 15px -6px rgba(0, 0, 0, 0.53);
+}
+
+.firstHr {
+  margin-bottom: 0.5rem;
+}
