@@ -4,6 +4,8 @@
 
 Code test done using Vanilla framework developed by Canonical.
 
+- This code test is done using Vanilla JavaScript and Canonical's Vanilla framework for SASS.
+
 ## Links
 
 ### API
@@ -13,5 +15,3 @@ Code test done using Vanilla framework developed by Canonical.
 ### Git
 
 [Repository Link](https://github.com/RaAlMer/Canonical-VanillaJS)
-
-[Deploy Link]()
