@@ -15,3 +15,5 @@ Code test done using Vanilla framework developed by Canonical.
 ### Git
 
 [Repository Link](https://github.com/RaAlMer/Canonical-VanillaJS)
+
+[Deployment Link](https://raalmer.github.io/Canonical-VanillaJS/)
